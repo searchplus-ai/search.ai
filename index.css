@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Cairo', sans-serif;
+  background-color: #f0f4f8;
+  color: #333;
+}
+
+.app-container {
+  padding: 40px;
+  text-align: center;
+}
+
+h1 {
+  color: #1f2937;
+}
+
+p {
+  font-size: 1.2rem;
+}
