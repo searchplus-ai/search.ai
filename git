@@ -1,0 +1,4 @@
+git add .
+git commit -m "fix: added index.css and main.jsx"
+git remote add origin https://github.com/searchplus-ai/search.ai.git
+git push -u origin main
